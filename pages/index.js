@@ -117,7 +117,7 @@ export default function Home() {
         />
         <meta
           property="og:image"
-          content="https://meetanescort.info/logo.png"
+          content="https://ibb.co/Ys46YwX"
         />
         <meta property="og:url" content="https://meetanescort.info" />
         <link rel="canonical" href="https://meetanescort.info" />

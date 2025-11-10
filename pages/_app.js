@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
         />
         <meta
           property="og:image"
-          content="https://ibb.co/3m8wqtJf"
+          content="https://ibb.co/Ys46YwX"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head> */}
@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }) {
           property="og:description"
           content="Essential safety guides, legal rights information, and health resources for sex workers."
         />
-        <meta property="og:image" content="https://ibb.co/3m8wqtJf" />
+        <meta property="og:image" content="https://ibb.co/Ys46YwX" />
         <meta property="og:url" content="https://meetanescort.info" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="MeetAnEscort" />
@@ -35,7 +35,7 @@ function MyApp({ Component, pageProps }) {
           name="twitter:description"
           content="Safety resources and education for sex workers."
         />
-        <meta name="twitter:image" content="https://ibb.co/3m8wqtJf" />
+        <meta name="twitter:image" content="https://ibb.co/Ys46YwX" />
       </Head>
       <AuthProvider>
         <Component {...pageProps} />

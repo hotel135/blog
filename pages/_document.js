@@ -10,7 +10,7 @@ export default function Document() {
         />
         <meta
           property="og:image"
-          content="https://meetanescortblog.vercel.app/logo.png"
+          content="https://ibb.co/Ys46YwX"
         />
 
         <link rel="icon" href="/favicon.ico" />
